@@ -2,6 +2,7 @@
 *based on requestAnimationFrame*
 
 `animate.js` add the CSS class `animated` and `animation name` to the element you want to animate. At the end of the animation cleans up after itself.
+
 `animate.css` description of the animation classes
 
 ##Quick Use
